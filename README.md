@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anil-Orhan
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter,Java, C# and Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> anilorhanmail@gmail.com
 
 <!---
