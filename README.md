@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anil-Orhan
 - 👀 I’m interested in web development
-- 📫 How to reach me --> anilorhanmail@gmail.com
+- 📫 How to reach me --> contact@anilorhan.dev
 
 <!---
 Anil-Orhan/Anil-Orhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
