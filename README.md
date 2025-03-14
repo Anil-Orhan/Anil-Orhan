@@ -5,7 +5,8 @@
 <!---
 Anil-Orhan/Anil-Orhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->[![Website](https://img.shields.io/badge/-anilorhan.dev-000000?style=flat&logo=internet-explorer&logoColor=white)](https://www.anilorhan.dev)
+--->
+[![Website](https://img.shields.io/badge/-anilorhan.dev-000000?style=flat&logo=internet-explorer&logoColor=white)](https://www.anilorhan.dev)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
