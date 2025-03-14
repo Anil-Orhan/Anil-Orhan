@@ -6,4 +6,4 @@
 Anil-Orhan/Anil-Orhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skills.thijs.gg/icons?i=cs,net,jenkins,docker,redis,mongodb,postgres,mysql,angular,unity,js,html)](https://www.anilorhan.dev)
+[![www.anilorhan.dev](https://skills.thijs.gg/icons?i=cs,net,jenkins,docker,redis,mongodb,postgres,mysql,angular,unity,js,html)](https://www.anilorhan.dev)
