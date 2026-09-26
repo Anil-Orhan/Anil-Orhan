@@ -10,7 +10,7 @@ I build scalable web applications and enjoy working across the full stack.
 - Performance & SEO-aware implementations  
 
 ### Contact
-- 📧 **Email:** contact@anilorhan.dev  
+- 📧 **Email:** anil@anesteknoloji.com  
 - 🌐 **Website:** https://www.anilorhan.dev  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/an%C4%B1lorhan/
 
